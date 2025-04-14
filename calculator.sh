@@ -1,2 +1,4 @@
+multiplication
 c=a*b
+
 
